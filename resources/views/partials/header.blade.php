@@ -1,7 +1,7 @@
 <header>
     <div class="container">
         <div class="left">
-            <img src="@/img/dc-logo.png" class="logo">
+            <img src="img/dc-logo.png" class="logo">
         </div>
         <div class="right">
             <ul class="header-list">
